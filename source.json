@@ -8,13 +8,13 @@
       "bundleIdentifier": "id.xconnect.app",
       "developerName": "firdasaputrq",
       "subtitle": "Map, motorcycle data and music on the Yamaha dash",
-      "version": "0.1.77",
+      "version": "0.1.78",
       "versionDate": "2026-11-27",
-      "versionDescription": "Version 0.1.77",
-      "downloadURL": "https://github.com/firdasaputrq/XConnect-releases/releases/download/v0.1.77/XConnect.ipa",
+      "versionDescription": "Version 0.1.78",
+      "downloadURL": "https://github.com/firdasaputrq/XConnect-releases/releases/download/v0.1.78/XConnect.ipa",
       "localizedDescription": "XConnect for the Yamaha TFT dash.",
       "iconURL": "https://raw.githubusercontent.com/firdasaputrq/XConnect-releases/main/icon-1024.png",
-      "size": 19528675
+      "size": 19624253
     }
   ],
   "news": []
